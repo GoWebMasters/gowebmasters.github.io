@@ -1,16 +1,11 @@
 # Site settings
-url: https://techmasters.chat
-title: Technology Masters
+url: https://gowebmasters.club
+title: Go Web Masters
 description: >
-  An online community tying together a diverse and passionate group of technologists, entrepreneurs, and developers from all around the world.
+  An online community tying together a diverse and passionate group of web technologists from all around the world.
 
 # Build settings
 markdown: kramdown
-
-# Google Calendar API settings
-googleCalendar:
-  apiKey: AIzaSyD3Y_GF0P3MSCWZKhkMQ0FrUfKUf07m4U4
-  calendarId: zamtools.com_sksehlk62uahqednpmvbp7isno@group.calendar.google.com
 
 exclude: [scripts]
 

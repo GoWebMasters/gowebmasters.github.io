@@ -1,6 +1,6 @@
-# Technology Masters [Website][website]
+# Go Web Masters [Website][website]
 
-The official website for the [**#TechMasters**][website] Slack Group's website: [TechMasters.chat][website]
+The official website for the [**#GoWebMasters**][website] Slack Group's website: [GoWebMasters.club][website]
 
 The site is published using [Jekyll](https://jekyllrb.com), and hosted on [GitHub Pages](https://help.github.com/articles/about-github-pages-and-jekyll/).
 
@@ -69,4 +69,4 @@ Simply push to GitHub and GitHub Pages will automatically build *(assuming your 
 
 The MIT License (MIT). See [LICENSE](./LICENSE) for more details.
 
-[website]: https://techmasters.chat
+[website]: https://gowebmasters.club
