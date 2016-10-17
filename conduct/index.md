@@ -4,7 +4,7 @@ title: Code of Conduct
 redirect_from: "/coc/"
 ---
 
-Last modified: July 18, 2016
+Last modified: October 17, 2016
 
 ## Welcome to the GoWebMasters Community!
 
@@ -64,7 +64,7 @@ As part of the GoWebMasters community’s commitment to making the GoWebMasters 
 
 * We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, telephone numbers, driver license numbers) to strangers online, which may be used for illegal or harmful purposes.
 * Some personal information you provide to the Slack may be stored outside of the country in which you reside.
-* Be aware that some channels have a publicly-accessible and searchable record of all message activity at [http://gowebmasters.slackarchive.io](http://gowebmasters.slackarchive.io/). These channels are #business, #freelance, #general, #programming, and #technology. Therefore it is advisable to avoid sharing personally-identifiable information, or information you would not want available outside the confines of the Slack.
+* Be aware that some channels have a publicly-accessible and searchable record of all message activity at [http://gowebmasters.slackarchive.io](http://gowebmasters.slackarchive.io/). These channels are #freelance, #general, and #technology. Therefore it is advisable to avoid sharing personally-identifiable information, or information you would not want available outside the confines of the Slack.
 * Slack provides the ability for you to protect your account with Two-Factor Authentication ("2FA"), which is a responsible step in protecting your privacy and preventing abuse of and impersonation with your account. You may enable 2FA at [https://gowebmasters.slack.com/account/settings](https://gowebmasters.slack.com/account/settings).
 
 ## Contact Information
