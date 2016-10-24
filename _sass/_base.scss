@@ -87,6 +87,15 @@ body {
     }
   }
 
+  .matrix-join {
+    margin-top: 10px;
+  }
+
+  .matrix-logo img {
+    height: 30px;
+    margin-top: 8px;
+  }
+
   .hero-buttons {
     margin-bottom: 4rem;
 
@@ -474,5 +483,9 @@ p.copyright span {float: right;}
     }
     .channels {
       padding-bottom: 30px;
+    }
+    .matrix-logo img {
+      height: 30px;
+      margin-top: 8px;
     }
 }
